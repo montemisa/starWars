@@ -1,0 +1,11 @@
+.people-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+}
+
+.people-load-more {
+    width: 100%;
+}

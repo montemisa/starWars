@@ -1,0 +1,14 @@
+.app-container {
+    max-width: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+
+.app-banner {
+    height: 250px;
+    align-self: center;
+    width: 100%;
+    margin-bottom: 16px;
+}
